@@ -1,9 +1,3 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
