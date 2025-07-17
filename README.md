@@ -9,14 +9,14 @@
 
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">Introduction</a>
 
 Create an  app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe! a real-time teaching platform with Vapi, integrate an AI vocal agent, and deliver seamless, interactive learning sessions.
 
 
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - **[Clerk]** 
 
@@ -34,7 +34,7 @@ Create an  app from scratch featuring user authentication, subscriptions, and pa
 
 
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
  **AI Voice Agents**: Take tutoring sessions with voiced AIs specializing in the topics you want to get better at.
 
